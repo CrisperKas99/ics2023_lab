@@ -6,10 +6,10 @@ For the guide of these labs, refer to https://why.ink:8080/ICS/2023/labs/
 
 The following subprojects are included.
 
-- multimod
+- multimod 大整数乘法
 
-- inline assembly
+- inline assembly 内联汇编
 
-- hi
+- perftune 性能调优
  
-- cachism
+- cachism 缓存模拟器
